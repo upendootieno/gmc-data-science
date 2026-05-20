@@ -45,17 +45,16 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Deep Learning - Ian Goodfellow | Machine Learning | [Open Resource](https://drive.google.com/file/d/1SY8cSYTDxaD2rieqi6koRA0aVDA7x_wP/view?usp=drive_link) | Otieno |
 | Gödel, Escher, Bach | Thinking / Computer Science | [Open Resource](#) | ? |
 | The Art of Doing Science and Engineering | Computer Science | [Open Resource](#) | ? |
-| Hands-On Machine Learning | Machine Learning | [Open Resource](#) | ? |
-| Introduction to Probability | Statistics | [Open Resource](#) | ? |
-| Probability Theory - Jaynes | Statistics | [Open Resource](#) | ? |
-| Attention Is All You Need | AI Research | [Open Resource](#) | ? |
-| Backpropagation Notes | Machine Learning | [Open Resource](#) | ? |
-| Convex Optimization | Optimization | [Open Resource](#) | ? |
+| Hands-On Machine Learning | Machine Learning | [Open Resource](https://drive.google.com/file/d/11MyqKyXuXNqxRRklYzeRC8B6cmVZuv4v/view?usp=drive_link) | Otieno |
+| Introduction to Probability | Statistics | [Open Resource](https://drive.google.com/file/d/1JaRJhS05ZN18IdAxdTsJE82N5GeN5q3P/view?usp=drive_link) | Otieno |
+| Probability Theory - Jaynes | Statistics | [Open Resource](https://drive.google.com/file/d/1OA5PvXA0Qz0bv6wdTUnpt6WwuyIG8bkh/view?usp=drive_link) | Otieno |
+| Attention Is All You Need | AI Research | [Open Resource](https://drive.google.com/file/d/1YUvWisdkoQgx_3EFQaNdypv-G2dFooU1/view?usp=drive_link) | Otieno |
+| Backpropagation Notes | Machine Learning | [Open Resource](https://drive.google.com/file/d/1_8YGo84YFthqmDcTOa4HmgBcgI16cxho/view?usp=drive_link) | Otieno |
+| Convex Optimization | Optimization | [Open Resource](https://drive.google.com/file/d/1qFfl-fwtrgUDenERLmNJCb1ZbmGjPHvD/view?usp=drive_link) | Otieno |
 | Elements of Statistical Learning | Statistics / Machine Learning | [Open Resource](https://drive.google.com/file/d/1naDAy3M2PWDmcan0Rg_UaoRJQroLpySv/view?usp=drive_link) | Otieno |
 | Linear Algebra - Gilbert Strang | Math | [Open Resource](https://drive.google.com/file/d/1qVWUTmAwqMFdK2GWHY63F-alfi_NrQz6/view?usp=drive_link) | Otieno |
-| Random Forests (2001 Paper) | Machine Learning | [Open Resource](#) | ? |
+| Random Forests (2001 Paper) | Machine Learning | [Open Resource](https://drive.google.com/file/d/1DRwk3tMG2WmpimdqJTqaTmeA-6R90U1b/view?usp=drive_link) | Otieno |
 | SQLite Documentation | Database Systems | [Open Resource](https://sqlite.org/docs.html) | Otieno |
-|Something Random | Some other random thing | [Open Resource](https://google.com) | Otieno |
 ---
 
 ## Disclaimer
