@@ -55,6 +55,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Linear Algebra - Gilbert Strang | Math | [Open Resource](https://drive.google.com/file/d/1qVWUTmAwqMFdK2GWHY63F-alfi_NrQz6/view?usp=drive_link) | Otieno |
 | Random Forests (2001 Paper) | Machine Learning | [Open Resource](https://drive.google.com/file/d/1DRwk3tMG2WmpimdqJTqaTmeA-6R90U1b/view?usp=drive_link) | Otieno |
 | SQLite Documentation | Database Systems | [Open Resource](https://sqlite.org/docs.html) | Otieno |
+| Database Samples | Database Systems | [Open Resource](https://drive.google.com/drive/folders/126kNATKNGz6aIIJ6P5PGEzAWpCKV1sl5?usp=drive_link)| Otieno|
 ---
 
 ## Disclaimer
