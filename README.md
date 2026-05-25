@@ -56,6 +56,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Random Forests (2001 Paper) | Machine Learning | [Open Resource](https://drive.google.com/file/d/1DRwk3tMG2WmpimdqJTqaTmeA-6R90U1b/view?usp=drive_link) | Otieno |
 | SQLite Documentation | Database Systems | [Open Resource](https://sqlite.org/docs.html) | Otieno |
 | Database Samples | Database Systems | [Open Resource](https://drive.google.com/drive/folders/126kNATKNGz6aIIJ6P5PGEzAWpCKV1sl5?usp=drive_link)| Otieno|
+| Relational Model | Database Systems | [Open Resource](https://runestone.academy/ns/books/published/practical_db/PART3_RELATIONAL_DATABASE_THEORY/01-relational-model/relational-model.html)| Otieno|
 ---
 
 ## Disclaimer
