@@ -13,6 +13,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | Optimization | Convex optimization, objective functions and optimization theory |
 | Thinking / Cognitive Science | Problem solving, reasoning, cognition and mental models |
 |Tool| Tools for building projects |
+|Project | Example Project Implementation |
 ---
 
 ## Problem Areas
@@ -62,6 +63,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | ADP List | Networking | [Open Resource](https://adplist.org/explore/data-science) | Otieno |
 | 29 Data Science Applications and Examples | Applications of Data Science | [Open Resource](https://builtin.com/data-science/data-science-applications-examples) | Dorcas|
 | Scaling Laws for Neural Language Models | Computer Science | [Open Resource](https://drive.google.com/file/d/1fCf_6TVcScQ24BX7eCa7Q3onZJtaOS2P/view?usp=drive_link") | Otieno |
+| SoundWave Music Recommender Project | Project | [Open Resource](https://github.com/ucotieno/song-recommender) | Anthony,George,Dorcas,Phil,Abdy,Otieno |
 ---
 
 ## Disclaimer
