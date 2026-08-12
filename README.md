@@ -64,6 +64,7 @@ Resource types exist to help learners quickly understand *why* a resource is rel
 | 29 Data Science Applications and Examples | Applications of Data Science | [Open Resource](https://builtin.com/data-science/data-science-applications-examples) | Dorcas|
 | Scaling Laws for Neural Language Models | Computer Science | [Open Resource](https://drive.google.com/file/d/1fCf_6TVcScQ24BX7eCa7Q3onZJtaOS2P/view?usp=drive_link") | Otieno |
 | SoundWave Music Recommender Project | Project | [Open Resource](https://github.com/ucotieno/song-recommender) | Anthony,George,Dorcas,Phil,Abdy,Otieno |
+| Dive Into Deep Learning | Machine Learning | [Open Resource](https://d2l.smola.org/) | Otieno |
 ---
 
 ## Disclaimer
